@@ -1,0 +1,4 @@
+5e58689976aa26d6e7918c1177edc16f  ./dist/debian_i386.tar.xz
+81bb87a02b8031a882a1626518e3a6c3  ./dist/debian_amd64.tar.xz
+77b1822da12ed34ce0e4144a52dc37df  ./dist/debian_armhf.tar.xz
+a892bdaeb4f9d93ec3b3817ea18ffe3a  ./dist/debian_arm64.tar.xz

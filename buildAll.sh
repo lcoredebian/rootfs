@@ -4,3 +4,5 @@
 ./buildImage.sh amd64
 ./buildImage.sh armhf
 ./buildImage.sh arm64
+
+./generateMd5.sh 
